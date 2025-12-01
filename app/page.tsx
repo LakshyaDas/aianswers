@@ -81,7 +81,7 @@ export default function Home() {
                 <Sparkles className="w-5 h-5 text-secondary" />
               </div>
               <p className="text-xs text-muted-foreground">
-                Powered by advanced Gemini AI technology
+                Powered by advanced AI technology
               </p>
             </div>
           </div>
